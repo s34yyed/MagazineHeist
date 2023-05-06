@@ -1,0 +1,2 @@
+# MagazineHeist
+Script MagazineHeist Fivem
